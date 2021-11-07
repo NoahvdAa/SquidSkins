@@ -1,0 +1,6 @@
+name: SquidSkins
+version: '${version}'
+main: me.noahvdaa.squidskins.SquidSkins
+api-version: 1.17
+authors: [ NoahvdAa ]
+website: https://github.com/NoahvdAa/SquidSkins
